@@ -1,5 +1,6 @@
 # Options-Payoff-Risk-Visualizer
 An interactive Python application that models payoff structures of common derivatives strategies and visualizes risk-reward asymmetry at expiration.
+
 Features
 - Long Call / Put
 - Short Call / Put
