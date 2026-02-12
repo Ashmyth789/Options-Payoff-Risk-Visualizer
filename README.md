@@ -14,9 +14,9 @@ Features:
 Developed an interactive Options Payoff & Risk Visualizer modeling nonlinear derivatives strategies. analyzed breakeven dynamics and asymmetric exposure using Python and NumPy.
 
 ## 📷 Application Preview
-![App Screenshot](11.png)
+![App Screenshot](14.png)
 ![App Screenshot](12.png)
-![App Screenshot](13.png)
+![App Screenshot](15.png)
 
 
 
